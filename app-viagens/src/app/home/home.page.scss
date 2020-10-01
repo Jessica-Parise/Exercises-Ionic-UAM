@@ -32,8 +32,13 @@
 }
 
 .city-card {
-    max-width: 150px;
+    min-width: 160px;
     margin: 0 auto;
+    background: none;
+}
+
+.wrapper {
+    flex-wrap: wrap;
 }
 
 .master-section {
